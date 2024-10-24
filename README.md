@@ -1,4 +1,4 @@
-# EXPLORATORY DATA ANALYSIS PAPER
+# Exploratory Data Analysis Paper
 
 ***Question:*** What is the relationship between the amount of fast food restaurant and obesity rates per states in the United States?
 
