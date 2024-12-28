@@ -9,4 +9,3 @@
 2. Open *EDA_Analysis.ipynb* in your code editor and ensure the .csv files are in the same folder
 3. Run the analysis
 4. Open the *Obestity_Rates.pdf* paper to read our paper on the analysis
-  
